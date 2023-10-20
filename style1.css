@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+.img-fluid{
+    padding-top: 15px;
+    height: 30px;
+    width: 150px;
+  
+}
+.navbar{
+    background-color: black;
+    position: relative;
+    height: 70px;
+}
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+header{
+
+    margin: auto;
+    padding: auto;
+}
+
+main{
+    width: 70%;
+    padding: auto;
+    margin:auto;
+}
